@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Guessing Game"
+		},
+		{
+			"path": "../Frontend2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Guessing Game"
+	}
+}
